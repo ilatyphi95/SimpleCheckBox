@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleCheckBoxes</string>
+    <string name="check_one_string">Check one</string>
+    <string name="check_two_string">Check two</string>
+    <string name="check_three_string">Check three</string>
+    <string name="check_four_string">Check four</string>
+    <string name="btn_display_selected">Display selected CheckBox values</string>
+    <string name="initial_message">Select any number of CheckBox and display the text on the CheckBox on Button Click</string>
+</resources>
